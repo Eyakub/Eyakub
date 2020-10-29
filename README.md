@@ -27,21 +27,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eyakub" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/eyakub" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eyakub" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/https://dev.to/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/eyakub" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eyakub-sorkar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/eyakub-sorkar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5391058" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5391058" height="30" width="40" /></a>
-<a href="https://codesandbox.com/eyakub sorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eyakub sorkar" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/eyakub sorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eyakub sorkar" height="30" width="40" /></a> -->
 <a href="https://kaggle.com/eyakubsorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="eyakubsorkar" height="30" width="40" /></a>
 <a href="https://instagram.com/eyakub.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eyakub.me" height="30" width="40" /></a>
 <a href="https://medium.com/@eyakubsorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@eyakubsorkar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ourcodeschool" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ourcodeschool" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eyakub" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eyakub" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="eyakub" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="eyakub" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eyakub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="eyakub" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@eyakubsorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@eyakubsorkar" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/eyakub_sorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="eyakub_sorkar" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@eyakubsorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@eyakubsorkar" height="30" width="40" /></a> -->
+<!-- <a href="https://www.topcoder.com/members/eyakub_sorkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="eyakub_sorkar" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

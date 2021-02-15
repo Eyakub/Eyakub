@@ -5,11 +5,11 @@
 
 - My current focus **Python, Django, Machine Learning, ReactJS, VueJS, DevOps tools**
 
-- I’m currently learning **Django, Machine learning, Deep learning**
+- I'm currently learning **Django, Machine learning, Deep learning**
 
-- I’m looking to collaborate on **Any Python (Django) based workings.**
+- I'm looking to collaborate on **Any Python (Django) based workings.**
 
-- I’m looking for help with **Machine learning**
+- I'm looking for help with **Machine learning**
 
 - 💻 All of my projects are available at [https://about.eyakub.me/](https://about.eyakub.me/)
 

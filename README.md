@@ -7,7 +7,7 @@
 
 - I'm currently learning **Django, Machine learning, Deep learning**
 
-- I'm looking to collaborate on **Any Python (Django) based workings.**
+- I'm looking to collaborate on **Any Python (Django), JavaScript based workings.**
 
 - I'm looking for help with **Machine learning**
 

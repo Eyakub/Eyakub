@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyakub&label=Profile%20views&color=0e75b6&style=flat" alt="eyakub" /> </p>
 
-- My current focus **Python, Django, Machine Learning, ReactJS, VueJS, DevOps tools**
+- My current focus **Python, Django, Machine Learning, ReactJS, DevOps tools**
 
 - I'm currently learning **Django, Machine learning, Deep learning**
 
@@ -15,7 +15,7 @@
 
 - 📝 Sometimes I write articles on [https://medium.com/@eyakubsorkar](https://medium.com/@eyakubsorkar)
 
-- 💬 Ask me about **Python, Django, Machine Learning, ReactJS, VueJS, DevOps tools**
+- 💬 Ask me about **Python, Django, Machine Learning, ReactJS, DevOps tools**
 
 - 📫 How to reach me **eyakubsorkar@gmail.com**
 

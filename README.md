@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Eyakub Sorkar (Software Engineer)</h1> 
+<h1 align="center">MD Eyakub Sorkar (Software Engineer)</h1> 
 <h3 align="center">Professional experience of building web application, proficient in back-end development. particularly the LAMP/LEMP stack. 3 years of web development experience and 2 years of Professional experience on building web application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyakub&label=Profile%20views&color=0e75b6&style=flat" alt="eyakub" /> </p>

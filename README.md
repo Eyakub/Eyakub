@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=postgresql&logoColor=F7DF1E)
 
 ### Frameworks and Libraries
 

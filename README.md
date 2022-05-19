@@ -23,10 +23,9 @@
 
 About me:
 
-- 🔭 I’m currently working on Aadi BD Ltd
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working at Goama
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on Python, JavaScript
-- 🤔 I’m looking for help with Golang
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 

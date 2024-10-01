@@ -1,5 +1,21 @@
 # MD Eyakub Sorkar
 
+```python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "MD Eyakub Sorkar"
+        self.role = "Software Engineer"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 ## 🛠️ Skills
 
 ### Languages

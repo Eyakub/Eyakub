@@ -53,9 +53,8 @@ About me:
 - 🌱 I’m currently learning Kubernetes, Deep learning
 - 👯 I’m looking to collaborate on Python, JavaScript
 - 💬 Ask me about anything
-- 📫 How to reach me: Email, Facebook
+- 📫 How to reach me: Email, LinkedIn
 
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eyakub&show_icons=true&theme=radical" alt="eyakubsorkar"/>
-</a>
+![eyakub's Stats](https://github-readme-stats.vercel.app/api?username=eyakub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![eyakub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyakub&theme=vue-dark&hide_border=true)
+![eyakub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyakub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

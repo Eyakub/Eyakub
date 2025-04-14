@@ -56,5 +56,4 @@ About me:
 - 📫 How to reach me: Email, LinkedIn
 
 ![eyakub's Stats](https://github-readme-stats.vercel.app/api?username=eyakub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![eyakub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyakub&theme=vue-dark&hide_border=true)
 ![eyakub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyakub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

@@ -49,7 +49,7 @@ me.say_hi()
 
 About me:
 
-- 🔭 I’m currently working at Goama
+- 🔭 I’m currently working at SDS Manager
 - 🌱 I’m currently learning Kubernetes, Deep learning
 - 👯 I’m looking to collaborate on Python, JavaScript
 - 💬 Ask me about anything
